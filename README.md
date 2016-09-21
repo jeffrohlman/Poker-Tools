@@ -12,6 +12,6 @@ This repeats 7 times until all cards have been entered
 First it outputs the cards converted to a literal string form (14-2 becomes "Ace of Diamonds")  
 Next it outputs your best possible hand (best 5 cards) all converted to literal strings  
 
-Changelog:  
+###Changelog:  
 v1.0.0 - September 19th, 2016  
 Release
